@@ -1,8 +1,8 @@
 # hubcore.org
 - Сайт платформы HubCore http://hubcore.org
 - Прототип базовых элементов https://www.figma.com/file/7KI1Ja600uLEnTxbXBz9ye/Untitled?node-id=1%3A2
-- Наш канал с новостями в Telegram - t.me/hubcore_org_ru
-- Наш чат в Telegram - t.me/hubcore_org_ru_chat
+- Наш канал с новостями в Telegram - https://t.me/hubcore_org_ru
+- Наш чат в Telegram - https://t.me/hubcore_org_ru_chat
 - Почта - ru@hubcore.org
 - Создатель и координатор проекта: https://t.me/i0zgMRV49fX
 
