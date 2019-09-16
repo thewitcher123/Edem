@@ -1,0 +1,18 @@
+{
+  "name": "hubcore.org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "scripts": {
+    "serv-start": "cd src/ && node index.js",
+    "serv-dev": "cd src/ && nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
