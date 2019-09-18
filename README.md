@@ -11,55 +11,46 @@
 [![GitHub][img2]][lnk2]
 
 [img3]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn03.png
-[lnk3]: https:// "..."
-[![...][img3]][lnk3]
+[lnk3]: https://forms.gle/JfnkS4gqxjZDVfq46 "Опросная Анкета"
+[![Опросная Анкета][img3]][lnk3]
 
 [img4]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn04.png
 [lnk4]: https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1 "Прототипы дизайна"
 [![Прототипы дизайна][img4]][lnk4]
 
 [img5]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn05.png
-[lnk5]: https:// "..."
+[lnk5]: https://miro.com/welcomeonboard/Shyf6acWlagph8XeYoL9AcjFUDN839XJzPYjjhFVg5zdSeo3NFhCyPK2HdoaK879 "Main Map"
 [![...][img5]][lnk5]
 
 [img6]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn06.png
-[lnk6]: https:// "..."
-[![...][img6]][lnk6]
+[lnk6]: https://miro.com/welcomeonboard/xieTDTdcizNY1LtGqdwD3jnWBKjGXUygXGBqd8ol8FbO25dQ63EbUHP7OOwIxXbC "Architecture Planning Map"
+[![Architecture Planning Map][img6]][lnk6]
 
 [img7]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn07.png
-[lnk7]: https:// "..."
-[![...][img7]][lnk7]
+[lnk7]: mailto:ru@hubcore.org "Email"
+[![Email][img7]][lnk7]
 
 [img8]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn08.png
-[lnk8]: https:// "..."
-[![...][img8]][lnk8]
+[lnk8]: https://clck.ru/J6wZd "Рабочий Чат Slack"
+[![Рабочий Чат Slack][img8]][lnk8]
 
 [img9]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn09.png
-[lnk9]: https:// "..."
-[![...][img9]][lnk9]
+[lnk9]: https://t.me/hubcore_org_ru "Telegram-Канал"
+[![Telegram-Канал][img9]][lnk9]
 
 [img10]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn10.png
-[lnk10]: https:// "..."
-[![...][img10]][lnk10]
+[lnk10]: https://t.me/hubcore_org_ru_chat "Telegram-Чат"
+[![Telegram-Чат][img10]][lnk10]
 
 [img11]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn11.png
-[lnk11]: https:// "..."
-[![...][img11]][lnk11]
+[lnk11]: https://t.me/i0zgMRV49fX "Telegram Координатора"
+[![Telegram Координатора][img11]][lnk11]
 
-https://forms.gle/JfnkS4gqxjZDVfq46
-
-
- [](), 
- [Telegram канал](https://t.me/hubcore_org_ru),
- [Telegram чат](https://t.me/hubcore_org_ru_chat),
- [Telegram Создателя](https://t.me/i0zgMRV49fX), 
- [Email](ru@hubcore.org)
 
 
 ## Наши команды
 Back-end Разработчики, Дизайнеры, DevOps Инженеры, Front-end Разработчики, Юристы, Маркетологи, PR-менеджеры.
 Десятки неравнодушных людей.
-[Присоединяйтесь к нам в Slack](https://clck.ru/J6wZd)
 
 ## Оглавление
 - [Коротко о Проекте](#Коротко-о-Проекте)
