@@ -1,6 +1,13 @@
 # hubcore.org
 ВНИМАНИЕ! проект находится в зачаточном состоянии. Манифест постоянно дорабатывается. Пожалуйста, подпишитесь на обновления.
-[План работы на ближайшее время](https://github.com/hubcoreorg/hubcore.org/tree/master/TORs)
+
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn01.png
+[lnk1]: http://hubcore.org "Сайт HubCore"
+[![Сайт HubCore][img1]][lnk1]
+
+https://forms.gle/JfnkS4gqxjZDVfq46
+
 
 [Сайт HubCore](http://hubcore.org), [Прототипы дизайна](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1), [Telegram канал](https://t.me/hubcore_org_ru), [Telegram чат](https://t.me/hubcore_org_ru_chat), [Telegram Создателя](https://t.me/i0zgMRV49fX), [Email](ru@hubcore.org)
 
