@@ -6,6 +6,46 @@
 [lnk1]: http://hubcore.org "Сайт HubCore"
 [![Сайт HubCore][img1]][lnk1]
 
+[img2]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn02.png
+[lnk2]: https:// "..."
+[![...][img2]][lnk2]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn03.png
+[lnk1]: https:// "..."
+[![...][img3]][lnk3]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn04.png
+[lnk1]: https:// "..."
+[![...][img4]][lnk4]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn05.png
+[lnk1]: https:// "..."
+[![...][img5]][lnk5]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn06.png
+[lnk1]: https:// "..."
+[![...][img6]][lnk6]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn07.png
+[lnk1]: https:// "..."
+[![...][img7]][lnk7]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn08.png
+[lnk1]: https:// "..."
+[![...][img8]][lnk8]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn09.png
+[lnk1]: https:// "..."
+[![...][img9]][lnk9]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn010.png
+[lnk1]: https:// "..."
+[![...][img10]][lnk10]
+
+[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn011.png
+[lnk1]: https:// "..."
+[![...][img11]][lnk11]
+
 https://forms.gle/JfnkS4gqxjZDVfq46
 
 
