@@ -7,16 +7,16 @@
 [![Сайт HubCore][img1]][lnk1]
 
 [img2]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn02.png
-[lnk2]: https:// "..."
-[![...][img2]][lnk2]
+[lnk2]: https://github.com/hubcoreorg "Репозитории GitHub"
+[![GitHub][img2]][lnk2]
 
 [img3]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn03.png
 [lnk3]: https:// "..."
 [![...][img3]][lnk3]
 
 [img4]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn04.png
-[lnk4]: https:// "..."
-[![...][img4]][lnk4]
+[lnk4]: https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1 "Прототипы дизайна"
+[![Прототипы дизайна][img4]][lnk4]
 
 [img5]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn05.png
 [lnk5]: https:// "..."
@@ -38,18 +38,22 @@
 [lnk9]: https:// "..."
 [![...][img9]][lnk9]
 
-[img10]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn010.png
+[img10]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn10.png
 [lnk10]: https:// "..."
 [![...][img10]][lnk10]
 
-[img11]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn011.png
+[img11]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn11.png
 [lnk11]: https:// "..."
 [![...][img11]][lnk11]
 
 https://forms.gle/JfnkS4gqxjZDVfq46
 
 
-[Сайт HubCore](http://hubcore.org), [Прототипы дизайна](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1), [Telegram канал](https://t.me/hubcore_org_ru), [Telegram чат](https://t.me/hubcore_org_ru_chat), [Telegram Создателя](https://t.me/i0zgMRV49fX), [Email](ru@hubcore.org)
+ [](), 
+ [Telegram канал](https://t.me/hubcore_org_ru),
+ [Telegram чат](https://t.me/hubcore_org_ru_chat),
+ [Telegram Создателя](https://t.me/i0zgMRV49fX), 
+ [Email](ru@hubcore.org)
 
 
 ## Наши команды
