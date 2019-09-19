@@ -5,9 +5,9 @@
 
 [img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn01.png
 [lnk1]: http://hubcore.org "Сайт HubCore"
-[![Сайт HubCore]
+[![Сайт HubCore][img1]][lnk1]
 
-[img1]][lnk1]|[img2]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn02.png
+[img2]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn02.png
 [lnk2]: https://github.com/hubcoreorg "Репозитории GitHub"
 [![GitHub][img2]][lnk2]
 
@@ -21,7 +21,7 @@
 
 [img5]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn05.png
 [lnk5]: https://miro.com/welcomeonboard/Shyf6acWlagph8XeYoL9AcjFUDN839XJzPYjjhFVg5zdSeo3NFhCyPK2HdoaK879 "Main Map"
-[![...][img5]][lnk5]
+[![Main Map][img5]][lnk5]
 
 [img6]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn06.png
 [lnk6]: https://miro.com/welcomeonboard/xieTDTdcizNY1LtGqdwD3jnWBKjGXUygXGBqd8ol8FbO25dQ63EbUHP7OOwIxXbC "Architecture Planning Map"
