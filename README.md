@@ -2,13 +2,21 @@
 ВНИМАНИЕ! проект находится в зачаточном состоянии. Манифест постоянно дорабатывается. Пожалуйста, подпишитесь на обновления.
 
 
-[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn01.png
+|   |   |
+|---|---|
+|[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn01.png
 [lnk1]: http://hubcore.org "Сайт HubCore"
-[![Сайт HubCore][img1]][lnk1]
-
-[img2]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn02.png
+[![Сайт HubCore][img1]][lnk1]|[img2]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn02.png
 [lnk2]: https://github.com/hubcoreorg "Репозитории GitHub"
-[![GitHub][img2]][lnk2]
+[![GitHub][img2]][lnk2]|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
+
+
+
 
 [img3]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn03.png
 [lnk3]: https://forms.gle/JfnkS4gqxjZDVfq46 "Опросная Анкета"
