@@ -1,7 +1,14 @@
 # hubcore.org
 ВНИМАНИЕ! проект находится в зачаточном состоянии. Манифест постоянно дорабатывается. Пожалуйста, подпишитесь на обновления.
 
-
+## Оглавление
+- [Коротко о Проекте](#Коротко-о-Проекте)
+- [Инструменты платформы](#Инструменты-платформы)
+- [Истории](#Истории)
+- [Философия проекта](#Философия-проекта)
+- [Принципы фонда](#Принципы-фонда)
+- [Базовые сущности](#Базовые-сущности)
+- [UI и UX](#UI-и-UX)
 
 [img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn01.png
 [lnk1]: http://hubcore.org "Сайт HubCore"
@@ -35,6 +42,10 @@
 [lnk8]: https://clck.ru/J6wZd "Рабочий Чат Slack"
 [![Рабочий Чат Slack][img8]][lnk8]
 
+[img11]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn11.png
+[lnk11]: https://t.me/i0zgMRV49fX "Telegram Координатора"
+[![Telegram Координатора][img11]][lnk11]
+
 [img9]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn09.png
 [lnk9]: https://t.me/hubcore_org_ru "Telegram-Канал"
 [![Telegram-Канал][img9]][lnk9]
@@ -43,24 +54,18 @@
 [lnk10]: https://t.me/hubcore_org_ru_chat "Telegram-Чат"
 [![Telegram-Чат][img10]][lnk10]
 
-[img11]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn11.png
-[lnk11]: https://t.me/i0zgMRV49fX "Telegram Координатора"
-[![Telegram Координатора][img11]][lnk11]
+Чаты наших команд:
+- #Design - https://cutt.ly/4wZ8fdO
+- #FrontEnd - https://cutt.ly/LwZ8hiU
+- #BackEnd - https://cutt.ly/gwZ8za
+- #DevOps - https://cutt.ly/GwZ8jEy
+- #Legal - https://cutt.ly/YwZ8kpE
+- #Marketing - https://cutt.ly/swZ8kYK
+- #PR - https://cutt.ly/WwZ8k2u
 
 
 
-## Наши команды
-Back-end Разработчики, Дизайнеры, DevOps Инженеры, Front-end Разработчики, Юристы, Маркетологи, PR-менеджеры.
-Десятки неравнодушных людей.
 
-## Оглавление
-- [Коротко о Проекте](#Коротко-о-Проекте)
-- [Инструменты платформы](#Инструменты-платформы)
-- [Истории](#Истории)
-- [Философия проекта](#Философия-проекта)
-- [Принципы фонда](#Принципы-фонда)
-- [Базовые сущности](#Базовые-сущности)
-- [UI и UX](#UI-и-UX)
 
 ## Коротко о Проекте
 [*Оглавление*](#Оглавление) 
