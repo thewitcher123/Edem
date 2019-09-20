@@ -55,13 +55,13 @@
 [![Telegram-Чат][img10]][lnk10]
 
 Чаты наших команд:
-- #Design - https://cutt.ly/4wZ8fdO
-- #FrontEnd - https://cutt.ly/LwZ8hiU
-- #BackEnd - https://cutt.ly/gwZ8za
-- #DevOps - https://cutt.ly/GwZ8jEy
-- #Legal - https://cutt.ly/YwZ8kpE
-- #Marketing - https://cutt.ly/swZ8kYK
-- #PR - https://cutt.ly/WwZ8k2u
+- #Design - cutt.ly/4wZ8fdO
+- #FrontEnd - cutt.ly/LwZ8hiU
+- #BackEnd - cutt.ly/uwZ8GXF
+- #DevOps - cutt.ly/GwZ8jEy
+- #Legal - cutt.ly/YwZ8kpE
+- #Marketing - cutt.ly/swZ8kYK
+- #PR - cutt.ly/WwZ8k2u
 
 
 
