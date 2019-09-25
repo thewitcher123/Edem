@@ -1,11 +1,22 @@
 # hubcore.org
 
+## Оглавление
+- [Инструменты назработки](#Инструменты-Разработки)
+- [Принципы фонда](#Принципы-фонда)
+- [Истории](#Истории)
+- [Базовые сущности](#Базовые-сущности)
+- [UI и UX](#UI-и-UX)
+- [FAQ](#FAQ)
+
 **Если коротко:**
 Мы создаем фонд для работы над любыми открытыми проектами (стандарты, научные работы, чертежи, ПО, он-лайн сервисы) и платформу для него. 
 
 **Финанисирование - Разработка - Распространение - Поддержка**
 
-В рамках фонда мы хотим организовать кроссинтегрированную платформу полного цикла: обсуждение новых идей, сбор средств, система контроля версий, документация и уроки, поддержка пользователей, биржа и маркетплейс для платных доработок и готовых платных модулей ПО, а также изделий сделанных по открытым стандартам и чертежам.
+В рамках фонда мы хотим организовать кроссинтегрированную платформу полного цикла, в рамках котороый
+
+
+обсуждение новых идей, сбор средств, система контроля версий, документация и уроки, поддержка пользователей, биржа и маркетплейс для платных доработок и готовых платных модулей ПО, а также изделий сделанных по открытым стандартам и чертежам.
 
 *Мы не делаем еще один GitHub, KickStarter или AliExpress, мы делаем универсальную платформу для любых OpenSource проектов*
 
@@ -21,76 +32,60 @@
 - Стандарты изделий, производство которых можно будет наладить в любой точке Мира
 - Свободные онлайн-сервисы, как аналоги существующих, так и абсолютно новые 
 - Проведение научных работ
+
 (все созданное в рамках фонда, становится общественным достоянием)
 
-Что бы лучше понять суть, прочитайте раздел Истории (ссылка ниже в оглавлении)
-
-Сейчас работа в самом начале. Делаем дорожную карту, миндмэпы, макеты экранов, в процессе первый MVP (авторизация + лк + список участников). Помощь нужна во всём. Заполняйте [опросную анкету](https://forms.gle/JfnkS4gqxjZDVfq46), если хотите дать нам совет или учавствовать в проекте, подписывайтесь на [канал](https://t.me/hubcore_org_ru) в Telegram. 
-
-## Оглавление
-- [Истории](#Истории)
-- [Принципы фонда](#Принципы-фонда)
-- [Базовые сущности](#Базовые-сущности)
-- [UI и UX](#UI-и-UX)
-- [FAQ](#FAQ)
-
-[img1]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn01.png
-[lnk1]: http://hubcore.org "Сайт HubCore"
-[![Сайт HubCore][img1]][lnk1]
-
-[img2]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn02.png
-[lnk2]: https://github.com/hubcoreorg "Репозитории GitHub"
-[![GitHub][img2]][lnk2]
-
-[img3]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn03.png
-[lnk3]: https://forms.gle/JfnkS4gqxjZDVfq46 "Опросная Анкета"
-[![Опросная Анкета][img3]][lnk3]
-
-[img4]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn04.png
-[lnk4]: https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1 "Прототипы дизайна"
-[![Прототипы дизайна][img4]][lnk4]
-
-[img5]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn05.png
-[lnk5]: https://miro.com/welcomeonboard/Shyf6acWlagph8XeYoL9AcjFUDN839XJzPYjjhFVg5zdSeo3NFhCyPK2HdoaK879 "Main Map"
-[![Main Map][img5]][lnk5]
-
-[img6]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn06.png
-[lnk6]: https://miro.com/welcomeonboard/xieTDTdcizNY1LtGqdwD3jnWBKjGXUygXGBqd8ol8FbO25dQ63EbUHP7OOwIxXbC "Architecture Planning Map"
-[![Architecture Planning Map][img6]][lnk6]
-
-[img7]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn07.png
-[lnk7]: mailto:ru@hubcore.org "Email"
-[![Email][img7]][lnk7]
-
-[img8]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn08.png
-[lnk8]: https://clck.ru/J6wZd "Рабочий Чат Slack"
-[![Рабочий Чат Slack][img8]][lnk8]
-
-[img11]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn11.png
-[lnk11]: https://t.me/i0zgMRV49fX "Telegram Координатора"
-[![Telegram Координатора][img11]][lnk11]
-
-[img9]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn09.png
-[lnk9]: https://t.me/hubcore_org_ru "Telegram-Канал"
-[![Telegram-Канал][img9]][lnk9]
-
-[img10]: https://github.com/hubcoreorg/hubcore.org/blob/master/files/readme/btn10.png
-[lnk10]: https://t.me/hubcore_org_ru_chat "Telegram-Чат"
-[![Telegram-Чат][img10]][lnk10]
-
-Чаты наших команд:
-- #Design - https://cutt.ly/4wZ8fdO
-- #FrontEnd - https://cutt.ly/LwZ8hiU
-- #BackEnd - https://cutt.ly/uwZ8GXF
-- #DevOps - https://cutt.ly/GwZ8jEy
-- #Legal - https://cutt.ly/YwZ8kpE
-- #Marketing - https://cutt.ly/swZ8kYK
-- #PR - https://cutt.ly/WwZ8k2u
+Что бы лучше понять суть, прочитайте раздел [Истории](#Истории)
 
 
+## Инструменты Разработки
+*Мы в самом начале нашего пути, помните об этом* 
+
+**Стек:**
+- Python
+- PostgreSQL
+- ReactJS
+(остальное в процессе голосования)
+
+**Как работаем:**
+- Миндмепим в Miro и обсуждаем фичи в рабочих чатах Slack и Telegram
+- На основе миндмепа пишем ТЗ к релизу в папке TORs проекта
+- Составляем по ТЗ дорожную карту с вехами
+- Над вехами работаем в рамках Projects на Github
+- Макеты делаются дизайнерами в Figma
+- Пулреквесты по таскам предлагаются всеми желающими, в комментариях к таскам люди пишут что начали делать и когда планируют закончить.
+- Пул реквесты обсуждаются всей командой и сливаются в мастер.
+
+**Ссылки**:
+- [hubcore.org](http://hubcore.or)
+- [Дорожная Карта](https://hubcore.aha.io/shared/a6ec6d43087e90db511a8f08734bcf88)
+- [Миндкарта - Основная](https://miro.com/welcomeonboard/Shyf6acWlagph8XeYoL9AcjFUDN839XJzPYjjhFVg5zdSeo3NFhCyPK2HdoaK879)
+- [Миндкарта - Инженерная](https://miro.com/welcomeonboard/xieTDTdcizNY1LtGqdwD3jnWBKjGXUygXGBqd8ol8FbO25dQ63EbUHP7OOwIxXbC)
+- [ТЗ к Релизам](https://github.com/hubcoreorg/hubcore.org/tree/master/TORs)
+- [Задачи GitHub](https://github.com/hubcoreorg/hubcore.org/projects)
+- [Дизайн Экранов в Figma](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1)
+- [Рабочий чат Slack](https://clck.ru/J6wZd)
+
+**Мы в Telegram:**
+- [Координатор](https://t.me/i0zgMRV49fX)
+- [Канал с новостями](https://t.me/hubcore_org_ru)
+- [Общий Чат](https://t.me/hubcore_org_ru_chat)
+- [Design Команда](https://cutt.ly/4wZ8fdO)
+- [FrontEnd Команда](https://cutt.ly/LwZ8hiU)
+- [BackEnd Команда](https://cutt.ly/uwZ8GXF)
+- [DevOps Команда](https://cutt.ly/GwZ8jEy)
+- [Legal Команда](https://cutt.ly/YwZ8kpE)
+- [Marketing Команда](https://cutt.ly/swZ8kYK)
+- [PR Команда](https://cutt.ly/WwZ8k2u)
+
+**Как стать членом команды**:
+- Иметь время на проект
+- Иметь мотивацию сделать Мир лучше
+- Иметь необходимые навыки (если вы ничего не умеете, можно помогать с пиаром)
+- [Заполнить Анкету](https://forms.gle/JfnkS4gqxjZDVfq46)
 
 
-## Принципы фонда
+## Принципы Фонда
 [*Оглавление*](#Оглавление) 
 
 - Платформа фонда развивается как универсальная экосистема для работы над открытыми проектами
@@ -99,9 +94,6 @@
 - Всё созданное в рамках фонда становится общественным достоянием
 - Работа над проектами ведется участниками либо безвозмездно, либо за счет средств фонда, либо в ходе сбора средств внутри платформы
 - Никакие средства полученные фондом не могут идти ни на что кроме поддержки и развития собственных проектов
-
-
-
 
 ## Истории
 [*Оглавление*](#Оглавление) 
