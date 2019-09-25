@@ -59,7 +59,6 @@
 
 **Ссылки**:
 - [hubcore.org](http://hubcore.org)
-- [Дорожная Карта](https://hubcore.aha.io/shared/a6ec6d43087e90db511a8f08734bcf88)
 - [Миндкарта - Основная](https://miro.com/welcomeonboard/Shyf6acWlagph8XeYoL9AcjFUDN839XJzPYjjhFVg5zdSeo3NFhCyPK2HdoaK879)
 - [Миндкарта - Инженерная](https://miro.com/welcomeonboard/xieTDTdcizNY1LtGqdwD3jnWBKjGXUygXGBqd8ol8FbO25dQ63EbUHP7OOwIxXbC)
 - [ТЗ к Релизам](https://github.com/hubcoreorg/hubcore.org/tree/master/TORs)
