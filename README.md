@@ -63,6 +63,7 @@
 - [Миндкарта - Основная](https://miro.com/welcomeonboard/Shyf6acWlagph8XeYoL9AcjFUDN839XJzPYjjhFVg5zdSeo3NFhCyPK2HdoaK879)
 - [Миндкарта - Инженерная](https://miro.com/welcomeonboard/xieTDTdcizNY1LtGqdwD3jnWBKjGXUygXGBqd8ol8FbO25dQ63EbUHP7OOwIxXbC)
 - [ТЗ к Релизам](https://github.com/hubcoreorg/hubcore.org/tree/master/TORs)
+- [Ошибки/Вопросы/Предложения](https://github.com/hubcoreorg/hubcore.org/issues)
 - [Задачи GitHub](https://github.com/hubcoreorg/hubcore.org/projects)
 - [Дизайн Экранов в Figma](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1)
 - [Рабочий чат Slack](https://clck.ru/J6wZd)
@@ -83,8 +84,10 @@
 - Иметь время на проект
 - Иметь мотивацию сделать Мир лучше
 - Иметь необходимые навыки (если вы ничего не умеете, можно помогать с пиаром)
+- Прочитать манифест
+- [Прочитать и создать свои Issues](https://github.com/hubcoreorg/hubcore.org/issues) (вопросы, предложения)
 - [Заполнить Анкету](https://forms.gle/JfnkS4gqxjZDVfq46)
-
+*Создать Issues и заполнить анкету можно и тем, кто не хочет работать с нами над проектом, а просто хочет задать вопросы и дать нам совет*
 
 ## Принципы Фонда
 [*Оглавление*](#Оглавление) 
