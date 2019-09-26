@@ -59,8 +59,7 @@
 
 **Ссылки**:
 - [hubcore.org](http://hubcore.org)
-- [Миндкарта - Основная](https://miro.com/welcomeonboard/Shyf6acWlagph8XeYoL9AcjFUDN839XJzPYjjhFVg5zdSeo3NFhCyPK2HdoaK879)
-- [Миндкарта - Инженерная](https://miro.com/welcomeonboard/xieTDTdcizNY1LtGqdwD3jnWBKjGXUygXGBqd8ol8FbO25dQ63EbUHP7OOwIxXbC)
+- [Миндкарта](https://miro.com/welcomeonboard/pmIhRDcL1DZxSw3uVFNXcG9RWKEmxOKhVEjnmNVMxlXDgvJKyXhtGfkuSnwVH8FY)
 - [ТЗ к Релизам](https://github.com/hubcoreorg/hubcore.org/tree/master/TORs)
 - [Ошибки/Вопросы/Предложения](https://github.com/hubcoreorg/hubcore.org/issues)
 - [Задачи GitHub](https://github.com/hubcoreorg/hubcore.org/projects)
@@ -98,6 +97,7 @@
 - Всё созданное в рамках фонда становится общественным достоянием
 - Работа над проектами ведется участниками либо безвозмездно, либо за счет средств фонда, либо в ходе сбора средств внутри платформы
 - Никакие средства полученные фондом не могут идти ни на что кроме поддержки и развития собственных проектов
+- Наш фонд - нетоксичное сообщество. Мы не рады агрессивным персонам. 
 
 ## Истории
 [*Оглавление*](#Оглавление) 
