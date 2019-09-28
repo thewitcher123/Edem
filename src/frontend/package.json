@@ -1,32 +1,44 @@
 {
-  "name": "hubcore.org",
+  "name": "hubcore",
   "version": "1.0.0",
-  "description": "",
+  "description": "Frontend for the Hubcore platform.",
   "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.6.0",
-    "@babel/preset-env": "^7.6.0",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.6",
-    "css-loader": "^3.2.0",
-    "html-webpack-plugin": "^3.2.0",
-    "nodemon": "^1.19.2",
-    "style-loader": "^1.0.0",
-    "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.9",
-    "webpack-dev-server": "^3.8.1"
-  },
   "scripts": {
-    "serv-start": "cd api && node index.js",
-    "serv-dev": "cd api && nodemon index.js",
     "start": "webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": {
+    "name": "Ivashkevich Dmitriy",
+    "email": "ivashkevichdn@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "html-webpack-plugin": "^3.2.0",
+    "jest": "^24.9.0",
+    "sass": "^1.22.12",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.3.1",
+    "webpack-merge": "^4.2.2"
+  },
+  "dependencies": {
+    "@blueprintjs/core": "^3.18.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "redux": "^4.0.4"
+  }
 }
