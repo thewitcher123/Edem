@@ -44,9 +44,13 @@ build_backend:
 
 # Запуск проверки BackEnd`а.
 check_backend:
+	@echo "ERROR: Проверка BackEndа не реализованна!"
+	@exit 1
 
 # Запуск тестов BackEnd`а.
 test_backend:
+	@echo "ERROR: Тесты BackEndа не реализованны!"
+	@exit 1
 
 # Очистка BackEnd`а.
 clean_backend:
@@ -90,6 +94,8 @@ build_frontend:
 
 # Запуск проверки FrontEnd`а.
 check_frontend:
+	@echo "ERROR: Проверка FrontEndа не реализованна!"
+	@exit 1
 
 # Запуск тестов FrontEnd`а.
 test_frontend:
