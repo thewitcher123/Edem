@@ -1,9 +1,0 @@
-DB_ENGINE=django.db.backends.postgresql_psycopg2
-DB_NAME=hubcore_db
-DB_USER=hubcore_user
-DB_PASSWORD=exaple_password_1234
-DB_HOST=postgres
-DB_PORT=5432
-
-SECRET_KEY=lj^i%0n2zh!f!tpn!krh8j5h1z+vgs7q3#7=7541o!w^-ry&6!
-DEBUG=1

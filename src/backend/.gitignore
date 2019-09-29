@@ -128,3 +128,6 @@ dmypy.json
 # Архивы
 *.zip
 *.tg
+
+# PostgreSQL Backups
+backups/

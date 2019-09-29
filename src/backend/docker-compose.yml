@@ -5,7 +5,7 @@ services:
     restart: always
     build: ./hubcore
     command: gunicorn hubcore.wsgi:application -w 2 -b :8000
-    env_file: config/env
+    env_file: config/.env
     volumes:
       - ./hubcore:/data/hubcore
     depends_on:
@@ -21,16 +21,18 @@ services:
       - ./config/nginx/conf.d:/etc/nginx/conf.d
       - ./hubcore/static:/data/hubcore/static
       - ./hubcore/media:/data/hubcore/media
+      - ./hubcore/dist:/data/hubcore/html
     depends_on:
       - hubcore
 
   postgres:
     restart: always
     image: postgres:alpine
+    command: apk add --update bash
     volumes:
       - ./config/postgres/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
       - ./backups/postgresql:/backup
-    env_file: config/env
+    env_file: config/.env
 
   redis:
     restart: always
@@ -46,3 +48,4 @@ services:
 volumes:
   static:
   media:
+  dist:

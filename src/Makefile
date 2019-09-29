@@ -9,8 +9,11 @@ all: build test
 # Запуск Hubcore.
 run: run_backend
 
+# Запуск Hubcore.
+stop: stop_backend
+
 # Сборка всего проекта как BackEnd`а, так и FrontEnd`а.
-build: build_backend build_frontend
+build: build_frontend build_backend
 
 # Запуск полной проверки BackEnd`а и FrontEnd`а.
 check: clean_backend check_frontend
@@ -27,12 +30,12 @@ clean: clean_backend clean_frontend
 #					Цели для работы с BackEnd`ом.						#
 #########################################################################
 
-PATH_BACKEND = backend/docker-compose.yml
-DOCKER_COMPOSE = docker-compose -f $(PATH_BACKEND)
+PATH_BACKEND = ./backend
+DOCKER_COMPOSE = docker-compose -f $(PATH_BACKEND)/docker-compose.yml
 
 # Запуск BackEnd`а.
 run_backend:
-	$(DOCKER_COMPOSE) up -d
+	$(DOCKER_COMPOSE) up --build
 
 # Остановка BackEnd`а.
 stop_backend:
@@ -54,9 +57,10 @@ test_backend:
 
 # Очистка BackEnd`а.
 clean_backend:
-	rm -rf ./backend/.pytest_cache
+	rm -rf $(PATH_BACKEND)/.pytest_cache
 	find . -type f -name "*.pyc" -delete
 	rm -rf $(find . -type d -name __pycache__)
+	rm -rf $(PATH_BACKEND)/hubcore/dist
 
 # Выполнить миграцию на стороне BackEnd`а.
 migrate:
@@ -69,7 +73,6 @@ collectstatic:
 # Запустить очистку Docker контейнеров.
 dockerclean:
 	docker system prune -f
-	docker system prune -f --volumes
 
 
 
@@ -91,6 +94,8 @@ run_frontend:
 # Сборка FrontEnd`а.
 build_frontend:
 	$(NPM) run build
+	cp -rf $(PATH_FRONTEND)/dist $(PATH_BACKEND)/hubcore/dist
+
 
 # Запуск проверки FrontEnd`а.
 check_frontend:
