@@ -1,0 +1,53 @@
+version: '3'
+
+services:
+  hubcore:
+    restart: always
+    build: ./hubcore
+    command: gunicorn hubcore.wsgi:application -w 2 -b :8000
+    env_file: config/.env
+    ports:
+      - 8000:8000
+    volumes:
+      - ./hubcore:/data/hubcore
+    depends_on:
+      - postgres
+      - redis
+    tty: true
+
+  nginx:
+    restart: always
+    image: nginx:alpine
+    ports:
+      - 80:80
+    volumes:
+      - ./config/nginx/conf.d:/etc/nginx/conf.d
+      - ./hubcore/static:/data/hubcore/static
+      - ./hubcore/media:/data/hubcore/media
+      - ./hubcore/dist:/data/hubcore/html
+    depends_on:
+      - hubcore
+
+  postgres:
+    restart: always
+    build: ./config/postgres
+    volumes:
+      - ./config/postgres/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
+      - ./backups/postgresql:/backup
+    env_file: config/.env
+
+  redis:
+    restart: always
+    image: redis:alpine
+
+  data:
+    restart: always
+    image: alpine
+    volumes:
+      - /var/lib/postgresql
+    command: 'true'
+
+volumes:
+  static:
+  media:
+  dist:
