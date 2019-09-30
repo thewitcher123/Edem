@@ -12,6 +12,8 @@ psycopg2 = "*"
 gunicorn = "*"
 redis = "*"
 django-redis = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
 
 
 [requires]

@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: './hubcore/index.js',
@@ -37,11 +38,16 @@ module.exports = {
           },
         ],
       },
+      {
+        test: /\.(png|jpe?g|gif|svg|woff|woff2|ttf|eot|ico)(\?v=.+)?$/,
+        loader: 'file-loader?name=assets/[name].[hash].[ext]',
+      },
     ],
   },
   plugins: [
     new HtmlWebpackPlugin({
       template: './hubcore/index.html',
     }),
+    new CopyWebpackPlugin([{ from: 'hubcore/favicon.ico', to: 'favicon.ico' }]),
   ],
 };
