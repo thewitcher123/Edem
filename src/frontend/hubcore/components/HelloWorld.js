@@ -15,10 +15,10 @@ class HelloWorld extends Component {
     headers.append('Accept', 'application/json');
     headers.append('Origin', 'http://localhost:9000');
 
-    fetch(`http://localhost:8000/api/v0/${params}`, {
+    fetch(`http://localhost/server/api/v0/${params}`, {
       mode: 'cors',
       credentials: 'include',
-      method: 'POST',
+      method: 'GET',
       headers: headers,
     })
       .then(response => response.json())
