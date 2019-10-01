@@ -35,7 +35,7 @@ DOCKER_COMPOSE = docker-compose -f $(PATH_BACKEND)/docker-compose.yml
 
 # Запуск BackEnd`а.
 run_backend:
-	$(DOCKER_COMPOSE) up --build
+	$(DOCKER_COMPOSE) up --build -d
 
 # Остановка BackEnd`а.
 stop_backend:
@@ -94,7 +94,7 @@ run_frontend:
 # Сборка FrontEnd`а.
 build_frontend:
 	$(NPM) run build
-	cp -rf $(PATH_FRONTEND)/dist $(PATH_BACKEND)/hubcore/dist
+	cp -rf $(PATH_FRONTEND)/dist $(PATH_BACKEND)/hubcore
 
 
 # Запуск проверки FrontEnd`а.

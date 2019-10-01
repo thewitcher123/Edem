@@ -50,4 +50,9 @@ module.exports = {
     }),
     new CopyWebpackPlugin([{ from: 'hubcore/favicon.ico', to: 'favicon.ico' }]),
   ],
+  devtool: 'source-map',
+  devServer: {
+    contentBase: './dist',
+    hot: true,
+  },
 };

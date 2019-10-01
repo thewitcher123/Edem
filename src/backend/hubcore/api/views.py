@@ -6,14 +6,7 @@ from rest_framework.response import Response
 
 
 def hello_world(request):
-    response = JsonResponse({"data": "Hello World from Server Hubcore!"})
-
-    response["Access-Control-Allow-Origin"] = "*"
-    response["Access-Control-Allow-Methods"] = "GET, OPTIONS"
-    response["Access-Control-Max-Age"] = "1000"
-    response["Access-Control-Allow-Headers"] = "X-Requested-With, Content-Type"
-
-    return response
+    return JsonResponse({"msg": "Hello World from Server Hubcore!"})
 
 
 class HelloWorldViewSet(viewsets.ModelViewSet):
