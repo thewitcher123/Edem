@@ -25,6 +25,3 @@ RUN apk del -r python3-dev postgresql
 
 # Prepare
 COPY . /data/hubcore
-
-# Copying static files
-# RUN python manage.py collectstatic

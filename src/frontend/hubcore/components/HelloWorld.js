@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-const HOME_URL = 'http://localhost/server';
+const HOME_URL = 'http://localhost';
 
 class HelloWorld extends Component {
   constructor() {

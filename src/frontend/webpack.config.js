@@ -6,7 +6,7 @@ module.exports = {
   entry: './hubcore/index.js',
   output: {
     path: path.join(__dirname, 'dist'),
-    filename: 'index_mini.js',
+    filename: 'static/index_mini.js',
   },
   devServer: {
     contentBase: path.join(__dirname, 'dist'),
@@ -48,11 +48,11 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './hubcore/index.html',
     }),
-    new CopyWebpackPlugin([{ from: 'hubcore/favicon.ico', to: 'favicon.ico' }]),
+    new CopyWebpackPlugin([{ from: 'hubcore/favicon.ico', to: 'static/favicon.ico' }]),
   ],
   devtool: 'source-map',
   devServer: {
-    contentBase: './dist',
+    contentBase: './dist/satatic',
     hot: true,
   },
 };
