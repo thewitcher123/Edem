@@ -13,10 +13,10 @@ run: run_backend
 stop: stop_backend
 
 # Сборка всего проекта как BackEnd`а, так и FrontEnd`а.
-build: build_frontend build_backend
+build: clean build_frontend build_backend collectstatic
 
 # Запуск полной проверки BackEnd`а и FrontEnd`а.
-check: clean_backend check_frontend
+check: check_backend check_frontend
 
 # Запуск всех тестов BackEnd`а и FrontEnd`а.
 test: test_backend test_frontend
@@ -35,7 +35,7 @@ DOCKER_COMPOSE = docker-compose -f $(PATH_BACKEND)/docker-compose.yml
 
 # Запуск BackEnd`а.
 run_backend:
-	$(DOCKER_COMPOSE) up --build
+	$(DOCKER_COMPOSE) up -d
 
 # Остановка BackEnd`а.
 stop_backend:
@@ -44,6 +44,7 @@ stop_backend:
 # Сборка Docker контейнеров для BackEnd`а.
 build_backend:
 	$(DOCKER_COMPOSE) build
+	
 
 # Запуск проверки BackEnd`а.
 check_backend:
@@ -59,14 +60,20 @@ test_backend:
 clean_backend:
 	rm -rf $(PATH_BACKEND)/.pytest_cache
 	find . -type f -name "*.pyc" -delete
-	rm -rf $(find . -type d -name __pycache__)
-	rm -rf $(PATH_BACKEND)/hubcore/dist
+	find . -type d -name "__pycache__" -delete
+	rm -rf $(PATH_BACKEND)/hubcore/frontend/static
+	rm -rf $(PATH_BACKEND)/hubcore/frontend/templates
 
-# Выполнить миграцию на стороне BackEnd`а.
+
+# Создание новых миграций на основе изменений, которые вы внесли в свои модели на стороне BackEnd`а.
+makemigrations:
+	$(DOCKER_COMPOSE) run --rm hubcore ./manage.py makemigrations
+
+# Применение миграций, а также за отмену подачи и перечисления их статуса на стороне BackEnd`а.
 migrate:
 	$(DOCKER_COMPOSE) run --rm hubcore ./manage.py migrate --no-input
 
-#
+# Выполним подготовку/сборку статических файлов.
 collectstatic:
 	$(DOCKER_COMPOSE) run --rm hubcore ./manage.py collectstatic --no-input
 
@@ -94,7 +101,9 @@ run_frontend:
 # Сборка FrontEnd`а.
 build_frontend:
 	$(NPM) run build
-	cp -rf $(PATH_FRONTEND)/dist $(PATH_BACKEND)/hubcore/dist
+	mkdir -p $(PATH_BACKEND)/hubcore/frontend/templates/frontend
+	cp -r $(PATH_FRONTEND)/dist/static $(PATH_BACKEND)/hubcore/frontend
+	cp -f $(PATH_FRONTEND)/dist/index.html $(PATH_BACKEND)/hubcore/frontend/templates/frontend/index.html
 
 
 # Запуск проверки FrontEnd`а.

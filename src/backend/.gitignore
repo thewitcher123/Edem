@@ -131,3 +131,9 @@ dmypy.json
 
 # PostgreSQL Backups
 backups/
+
+# Hubcore frontend static files and migrations
+hubcore/frontend/static/
+hubcore/frontend/templates/
+hubcore/static/
+# migrations/

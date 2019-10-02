@@ -1,31 +1,22 @@
 import React, { Component } from 'react';
+import axios from 'axios';
+
+const HOME_URL = 'http://localhost';
 
 class HelloWorld extends Component {
   constructor() {
     super();
     this.state = {
-      message: '',
+      msg: '',
     };
   }
 
   loadHelloWorld(params) {
-    let headers = new Headers();
+    const url = `${HOME_URL}/api/v0/${params}`;
 
-    headers.append('Content-Type', 'application/json');
-    headers.append('Accept', 'application/json');
-    headers.append('Origin', 'http://localhost:9000');
-
-    fetch(`http://localhost/server/api/v0/${params}`, {
-      mode: 'cors',
-      credentials: 'include',
-      method: 'GET',
-      headers: headers,
-    })
-      .then(response => response.json())
-      .then(data => {
-        this.setState({ message: data });
-        console.log(data);
-      });
+    axios.get(url).then(response => {
+      this.setState(response.data);
+    });
   }
 
   componentDidMount() {
@@ -35,7 +26,7 @@ class HelloWorld extends Component {
   render() {
     return (
       <div>
-        <h3>{this.state.message}</h3>
+        <h3>{this.state.msg}</h3>
       </div>
     );
   }
