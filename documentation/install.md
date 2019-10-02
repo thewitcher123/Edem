@@ -123,6 +123,32 @@ hubcore.org
 
 Сборка всего проекта разделена на две части frontend и backend.
 
+_**Предварительно требовани:**_ для сборки проекта требуется создать файл `.env`, где должно описаны переменные среды для сборки. Относительный путь к файлу: `./hubcore.org/src/backend/config/.env`.
+Пример содержимого файла `.env` должнобыть:
+
+```
+DB_ENGINE=django.db.backends.postgresql_psycopg2
+DB_NAME=hubcore_db
+DB_USER=hubcore_user
+DB_PASSWORD=exaple_password_1234
+DB_HOST=postgres
+DB_PORT=5432
+
+SECRET_KEY=1234567890
+DEBUG=1
+```
+
+Пояснение переменных:
+
+- `DB_ENGINE` - Движок спомощью которого django работает с БД. В нашем случае django.db.backends.postgresql_psycopg2
+- `DB_NAME` - Имя БД
+- `DB_USER` - Пользователь
+- `DB_PASSWORD` - Пароль
+- `DB_HOST` - Имя сервера, где поднята БД. В нашем случае postgres
+- `DB_PORT` - Port сервера, где поднята БД. В нашем случае 5432
+- `SECRET_KEY` - Секретный ключ для нашего django приложения.
+- `DEBUG` - Разрешить запускать врежиме отладке.
+
 ### Сборка frontend'a.
 
 - Переходим в директорию проекта `frontend`.
