@@ -65,12 +65,15 @@ clean_backend:
 	rm -rf $(PATH_BACKEND)/hubcore/frontend/templates
 
 
+# Создание новых миграций на основе изменений, которые вы внесли в свои модели на стороне BackEnd`а.
+makemigrations:
+	$(DOCKER_COMPOSE) run --rm hubcore ./manage.py makemigrations
 
-# Выполнить миграцию на стороне BackEnd`а.
+# Применение миграций, а также за отмену подачи и перечисления их статуса на стороне BackEnd`а.
 migrate:
 	$(DOCKER_COMPOSE) run --rm hubcore ./manage.py migrate --no-input
 
-#
+# Выполним подготовку/сборку статических файлов.
 collectstatic:
 	$(DOCKER_COMPOSE) run --rm hubcore ./manage.py collectstatic --no-input
 
