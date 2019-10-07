@@ -1,25 +1,23 @@
 # GrandCore Fondation
-*Мы создаем фонд для работы над любыми открытыми проектами (стандарты, научные работы, чертежи, ПО, он-лайн сервисы) и универсальную платформу для работы над ними.*
+*Мы создаем фонд для работы над любыми открытыми проектами (стандарты, научные работы, чертежи, ПО, он-лайн сервисы) и универсальную платформу с кроссинтегрированными инструментами на основе гибкой саморегулируемов системы электронной демократии и бизнес-процессов.*
 
-## [Open Source реалити-шоу на YouTube](https://www.youtube.com/channel/UCCcI0eNBhfd0qHIzZLDvKVA)
+## Основные ссылки
+### [Open Source реалити-шоу на YouTube](https://www.youtube.com/channel/UCCcI0eNBhfd0qHIzZLDvKVA)
 ***Подпишитесь на канал!** Основатель проекта ведет работу в прямом эфире. Можно участвовать в дискуссии через чат в трансляции. Периодически будут создаваться конференции с другими разработчиками.*
-
-## [Опросная анкета](https://forms.gle/pMY5AqqdYUzMhdSK8)
+### [Опросная анкета](https://forms.gle/pMY5AqqdYUzMhdSK8)
 *Заполните, если Вы хотите участвовать в разработке или дать нам обратную связь. Все анкеты читаются основателем проекта.*
+### Telegram
+[Канал с Новостями](https://t.me/hubcore_org_ru) - [Общий Чат](https://t.me/hubcore_org_ru_chat) - [ЛС Основателю](https://t.me/i0zgMRV49fX) Другие чаты: [Design](https://cutt.ly/4wZ8fdO) - [FrontEnd](https://cutt.ly/LwZ8hiU) - [BackEnd](https://cutt.ly/uwZ8GXF) - [DevOps](https://cutt.ly/GwZ8jEy) - [Legal](https://cutt.ly/YwZ8kpE) - [Marketing](https://cutt.ly/swZ8kYK) - [PR](https://cutt.ly/WwZ8k2u) 
 
-## Другие ссылки
-- [grandcore.org](https://grandcore.org)(пока не работает)
-- [Миндкарта](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=grandcore.org#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pdNwWqCsGxdrEGcJ6Gn7gH1DTl_yrrLg%26export%3Ddownload)
-- [Дизайн Экранов в Figma](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1)
-- [Документация](https://github.com/grandcore/grandcore.org/tree/master/documentation)
+### Другие важные ссылки
+- [grandcore.org](https://grandcore.org)(тут будет наш сайт, пока не работает)
+- [Миндкарта](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=grandcore.org#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pdNwWqCsGxdrEGcJ6Gn7gH1DTl_yrrLg%26export%3Ddownload) (визуальные схемы проекта)
+- [Дизайн Экранов в Figma](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1) (здесь работают дизайнеры)
+- [Документация](https://github.com/grandcore/grandcore.org/tree/master/documentation) (прочитайте, прежде чем задавать впоросы)
 - [Техзадания к релизам](https://github.com/grandcore/grandcore.org/tree/master/TORs)
-- [Ошибки/Вопросы/Предложения](https://github.com/grandcore/grandcore.org/issues)
-- [Актуальные Задачи](https://github.com/grandcore/grandcore.org/projects)
+- [Ошибки/Вопросы/Предложения](https://github.com/grandcore/grandcore.org/issues) (пишите тут, а не в чатах и комментариях)
+- [Актуальные Задачи](https://github.com/grandcore/grandcore.org/projects) (если реально хотите помочь)
 
-## Telegram
-[Канал с Новостями](https://t.me/hubcore_org_ru) - [Общий Чат](https://t.me/hubcore_org_ru_chat) - [ЛС Основателю](https://t.me/i0zgMRV49fX)
-
-Другие чаты: [Design](https://cutt.ly/4wZ8fdO) - [FrontEnd](https://cutt.ly/LwZ8hiU) - [BackEnd](https://cutt.ly/uwZ8GXF) - [DevOps](https://cutt.ly/GwZ8jEy) - [Legal](https://cutt.ly/YwZ8kpE) - [Marketing](https://cutt.ly/swZ8kYK) - [PR](https://cutt.ly/WwZ8k2u) 
 
 ## Как стать членом команды
 - Иметь время на проект
@@ -32,7 +30,7 @@
 
 ## Коротко, что происходит 
 
-Проще всего вникнуть в происходящее прочитав [Истории](https://github.com/grandcore/grandcore.org/tree/master/documentation/stories.md), посмотрев [Экраны](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1) макетов страниц и [Миндкарту](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=grandcore.org#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pdNwWqCsGxdrEGcJ6Gn7gH1DTl_yrrLg%26export%3Ddownload) проекта. Обязательно подпишитесь на наше [Open Source реалити-шоу](https://www.youtube.com/channel/UCCcI0eNBhfd0qHIzZLDvKVA) на YouTube. Вся движуха там.
+Проще всего вникнуть в происходящее прочитав [Истории](https://github.com/grandcore/grandcore.org/tree/master/documentation/stories.md), посмотрев [Экраны](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1) макетов страниц и [Миндкарту](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=grandcore.org#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pdNwWqCsGxdrEGcJ6Gn7gH1DTl_yrrLg%26export%3Ddownload) проекта. Обязательно подпишитесь на наше [Open Source реалити-шоу](https://www.youtube.com/channel/UCCcI0eNBhfd0qHIzZLDvKVA) на YouTube.
 
 Вся работа фонда будет вестись на базе собственной универсальной платформы со всеми необходимыми (кроссинтегрированными) инструментами: финансирование, разработка, распространение, поддержка. Все созданное в рамках фонда становится общественным достоянием. 
 
