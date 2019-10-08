@@ -13,7 +13,7 @@ Cделайте пожалуйста [репост](https://vk.com/grandcore?w=w
 
 
 ### Другие важные ссылки
-- [grandcore.org](https://grandcore.org)(тут будет наш сайт, пока не работает)
+- [grandcore.org](https://grandcore.org)(тут будет наш сайт, пока просто заглушка)
 - [Миндкарта](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=grandcore.org#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pdNwWqCsGxdrEGcJ6Gn7gH1DTl_yrrLg%26export%3Ddownload) (визуальные схемы проекта)
 - [Дизайн Экранов в Figma](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1) (здесь работают дизайнеры)
 - [Документация](https://github.com/grandcore/grandcore.org/tree/master/documentation) (прочитайте, прежде чем задавать впоросы)
