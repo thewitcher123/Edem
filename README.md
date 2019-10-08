@@ -8,6 +8,9 @@
 *Заполните, если Вы хотите участвовать в разработке или дать нам обратную связь. Все анкеты читаются основателем проекта.*
 ### Telegram
 [Канал с Новостями](https://t.me/grandcore) - [Общий Чат](https://t.me/grandcore_chat) - [ЛС Основателю](https://t.me/i0zgMRV49fX) Другие чаты: [Design](https://cutt.ly/4wZ8fdO) - [FrontEnd](https://cutt.ly/LwZ8hiU) - [BackEnd](https://cutt.ly/uwZ8GXF) - [DevOps](https://cutt.ly/GwZ8jEy) - [Legal](https://cutt.ly/YwZ8kpE) - [Marketing](https://cutt.ly/swZ8kYK) - [PR](https://cutt.ly/WwZ8k2u) 
+## [VK Паблик](https://vk.com/grandcore)
+Cделайте пожалуйста [репост](https://vk.com/grandcore?w=wall-187380143_2)
+
 
 ### Другие важные ссылки
 - [grandcore.org](https://grandcore.org)(тут будет наш сайт, пока не работает)
