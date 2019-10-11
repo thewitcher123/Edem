@@ -8,25 +8,26 @@
 
 
 ## Основные ссылки
+
+### [Документация](https://github.com/grandcore/grandcore.org/tree/master/documentation)
+*Здесь вся информация о проекте в более подробном виде.*
 ### [Канал на YouTube](https://www.youtube.com/channel/UCCcI0eNBhfd0qHIzZLDvKVA)
 ***Подпишитесь на канал!** Основатель проекта ведет работу в прямом эфире, выпускает ежедневный блог с отчетами о проделанной работе, планами, разбором актуальных задач и ответамми на вопросы ([Форма для Ваших вопросов](https://forms.gle/WSUskFHmhyangj3b9)).*
 ### [Опросная анкета](https://forms.gle/pMY5AqqdYUzMhdSK8)
 *Заполните, если Вы хотите участвовать в разработке или дать нам обратную связь. Все анкеты читаются основателем проекта.*
 ### Telegram
 [Канал с Новостями](https://t.me/grandcore) - [Общий Чат](https://t.me/grandcore_chat) - [ЛС Основателю](https://t.me/i0zgMRV49fX) Чаты команд: [Design](https://cutt.ly/4wZ8fdO) - [FrontEnd](https://cutt.ly/LwZ8hiU) - [BackEnd](https://cutt.ly/uwZ8GXF) - [DevOps](https://cutt.ly/GwZ8jEy) - [Legal](https://cutt.ly/YwZ8kpE) - [Marketing](https://cutt.ly/swZ8kYK) - [PR](https://cutt.ly/WwZ8k2u) 
-## [VK Паблик](https://vk.com/grandcore)
+### [VK Паблик](https://vk.com/grandcore)
 Cделайте пожалуйста [репост](https://vk.com/grandcore?w=wall-187380143_3)
 
 
 ### Другие важные ссылки
-- [grandcore.org](https://grandcore.org)(тут будет наш сайт, пока просто заглушка)
+- [Актуальные Задачи](https://github.com/grandcore/grandcore.org/projects) (если реально хотите помочь)
 - [Миндкарта](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=grandcore.org#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pdNwWqCsGxdrEGcJ6Gn7gH1DTl_yrrLg%26export%3Ddownload) (визуальные схемы проекта)
 - [Дизайн Экранов в Figma](https://www.figma.com/file/Ag33afXxUOh2otvXJhwo7i/UIs?node-id=0%3A1) (здесь работают дизайнеры)
-- [Документация](https://github.com/grandcore/grandcore.org/tree/master/documentation) (прочитайте, прежде чем задавать впоросы)
-- [Техзадания к релизам](https://github.com/grandcore/grandcore.org/tree/master/TORs)
-- [Ошибки/Вопросы/Предложения](https://github.com/grandcore/grandcore.org/issues) (пишите тут, а не в чатах и комментариях)
-- [Актуальные Задачи](https://github.com/grandcore/grandcore.org/projects) (если реально хотите помочь)
-
+- [Техзадания к релизам](https://github.com/grandcore/grandcore.org/tree/master/TORs) (пока до этого не дошли)
+- [Ошибки/Вопросы/Предложения](https://github.com/grandcore/grandcore.org/issues) (лучше пишите тут, а не в чатах и комментариях)
+- [grandcore.org](https://grandcore.org)(тут будет наш сайт, пока просто заглушка)
 
 ## Как стать членом команды
 - Иметь время на проект
