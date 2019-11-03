@@ -2,7 +2,7 @@
 **Система управления контентом и автоматизации бизнес-процессов с гибкими инструментами электронной демократии для создания на ее базе платформ для совместной работы над проектами**
 
 ## Краткая суть 
-Является базой для нашей [основной](https://github.com/grandcore/grandcore.org) платформы и сайта Международной Саморегулируемой Партии Гражданского Сопротивления [Resonance](https://github.com/grandcore/GrandCore_Book/Resonance/), [MassDoc](https://github.com/grandcore/GrandCore_Book/MassDoc/), универсальной системы управления предприятием  [Sabotage](https://github.com/grandcore/GrandCore_Book/Sabotage), коллективной карты связей Всего [MassDoc](https://github.com/grandcore/GrandCore_Book/MassDoc/). 
+Является базой для нашей [основной](https://github.com/grandcore/GrandCore_Book/tree/master/GrandCore_Planform) платформы и сайта Международной Саморегулируемой Партии Гражданского Сопротивления [Resonance](https://github.com/grandcore/GrandCore_Book/tree/master/Resonance), универсальной системы управления предприятием  [Sabotage](https://github.com/grandcore/GrandCore_Book/tree/master/Sabotage), коллективной карты связей Всего [MassDoc](https://github.com/grandcore/GrandCore_Book/tree/master/MassDoc). 
 
 
 ## Ссылки
