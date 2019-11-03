@@ -7,7 +7,7 @@
 
 ## Ссылки
 - [О фонде GrandCore](https://github.com/grandcore/GrandCore_Book)
-- [Документация](https://github.com/grandcore/GrandCore_Book/Edem)
+- [Документация](https://github.com/grandcore/GrandCore_Book/tree/master/Edem)
 - [Issues](https://github.com/grandcore/Edem/issues) (обсуждение задач, вопросов, предложений)
 - [Карты и Схемы](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=grandcore.org#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pdNwWqCsGxdrEGcJ6Gn7gH1DTl_yrrLg%26export%3Ddownload)
 - [Дизайн Экранов в Figma](https://www.figma.com/file/64gd2rhUChdpJyPw7vVcdj/Edem)
