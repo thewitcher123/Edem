@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Hubcore from './components/Hubcore.js';
+import {Root} from "./core/components/Root/Root";
 
-ReactDOM.render(<Hubcore />, document.getElementById('root'));
+import 'semantic-ui-css/semantic.min.css';
+
+ReactDOM.render(<Root />, document.getElementById('root'));

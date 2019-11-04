@@ -1,0 +1,15 @@
+.alert-popup {
+  position: absolute !important;
+  top: 60px !important;
+  right: 20px !important;
+  max-width: 600px !important;
+  z-index: 10000 !important;
+  padding-right: 40px !important;
+}
+
+.ui.green.message .close {
+  color: #1ebc30;
+}
+.ui.red.message .close {
+  color: #db2828;
+}
